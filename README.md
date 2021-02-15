@@ -1,0 +1,2 @@
+# How-to-handle-Imbalanced-data-set.
+How we can handle Imbalanced data set. Below i have worked on car_insurance data. Who took car insurance or not. We have two lables 1 and 0. One for who took car insurance Zero who did not took car insurance. EDA i have found lables zero have more than 90%, so its purly imbalanced data set. i had use imbalanced techinque under sampling and over sampling both, via using Imblearn libary.
